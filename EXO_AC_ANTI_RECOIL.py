@@ -4,6 +4,10 @@ import win32api
 import random
 import keyboard
 import ctypes
+import os
+import sys
+
+os.system('title EXO ANTI RECOIL by Jware-dev')
 
 banner = """
 ███████╗██╗░░██╗░█████╗░  
@@ -19,6 +23,9 @@ banner = """
 ██╔══██║██║╚████║░░░██║░░░██║  ██╔══██╗██╔══╝░░██║░░██╗██║░░██║██║██║░░░░░
 ██║░░██║██║░╚███║░░░██║░░░██║  ██║░░██║███████╗╚█████╔╝╚█████╔╝██║███████╗
 ╚═╝░░╚═╝╚═╝░░╚══╝░░░╚═╝░░░╚═╝  ╚═╝░░╚═╝╚══════╝░╚════╝░░╚════╝░╚═╝╚══════╝
+by Jware-dev
+github: github.com/Jware-dev
+EXO github: github.com/Jware-dev/Exo
 """
 
 horizontal_range = 2
