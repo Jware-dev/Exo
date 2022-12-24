@@ -1,8 +1,6 @@
 # Exo
-The open source assault cube anti recoil hack
+The assault cube anti recoil hack
 # How To Use
-type `pip install -r requirments.txt`.
+This is now $1
 
-then run the script and open assault cube.
-
-to activate press `f2`
+To Purchase DM Jware Hack Dev#0464 (me) on discord :)
